@@ -58,3 +58,5 @@ Will consist of articles etc to further knowledge
 - know your ide
 - security / permission rules
 - Clean code
+- node
+- gradle
