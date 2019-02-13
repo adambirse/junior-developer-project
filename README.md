@@ -12,6 +12,15 @@ Will consist of articles etc to further knowledge
 - All Branches must be peer reviewed
 - Unit testing all the way
 
+### Setting up your environment
+
+- Intellij
+- git
+- fish
+- source tree
+- atom / text editor of choice
+- docker
+
 ## For the teachers
 
 - Create a Trello board with the features below
@@ -41,7 +50,7 @@ Will consist of articles etc to further knowledge
 
 ## Lessons I would like to add
 
-- Inheritence 
+- Inheritance 
 - lambdas
 - debugging  / bug fixing
 - comms skills
