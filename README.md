@@ -57,3 +57,4 @@ Will consist of articles etc to further knowledge
 - sql
 - know your ide
 - security / permission rules
+- Clean code
